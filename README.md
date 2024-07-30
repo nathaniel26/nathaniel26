@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @nathaniel26
-- 👀 I’m interested in ... Android, Python e C#
-- 🌱 I’m currently learning ... Kotlin
 - 📫 How to reach me [Portifolio](https://nathanielfarias.netlify.app/)
