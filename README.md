@@ -1,31 +1,38 @@
 # 👋 Olá, eu sou o Nathaniel Farias
 
+## 📚 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas pela Anhanguera UNOPAR.
+Atualmente, estou focado em aprimorar meus conhecimentos em JavaScript, com o objetivo de me especializar em Desenvolvimento Back-End. Em breve, iniciarei meus estudos em Node.js, bancos de dados e APIs REST para construir aplicações completas.
+No Desenvolvimento Front-End, já estudei HTML, CSS e JavaScript, e pretendo avançar para tecnologias como TypeScript, React.js, Next.js e Tailwind CSS, a fim de complementar minha formação como desenvolvedor full stack.
+Também sou entusiasta do Desenvolvimento de Jogos, com experiência prática em projetos pessoais utilizando a Unity.
+Estou em busca de oportunidades para aplicar meus conhecimentos, evoluir como desenvolvedor e contribuir em projetos reais.
+
+Estou buscando oportunidades para aplicar meus conhecimentos, evoluir como desenvolvedor e contribuir em projetos reais.
+
+---
+
 🎯 **Foco**: Desenvolvimento Back-End  
 📚 **Atualmente estudando**: Análise e Desenvolvimento de Sistemas (Anhanguera UNOPAR)  
 🚀 **Buscando oportunidades**: Desenvolvedor Back-End ou Front-End
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas (em aprendizado)
+## 🛠️ Tecnologias e Ferramentas
 
-**Back-End:**
-- Node.js
-- Banco de Dados (MySQL, MongoDB)
-- Git e GitHub
-
-**Front-End:**
+### 📚 Atualmente estudando:
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- React.js
-- Tailwind CSS
 
-**Tecnologias Comuns (Front-End e Back-End):**
-- TypeScript
-- Next.js
+### 🚀 Planejado para estudar:
+- **Back-End:** Node.js, Banco de Dados (MySQL, MongoDB), APIs REST
+- **Front-End:** TypeScript, React.js, Next.js, Tailwind CSS
+- **Tecnologias de Suporte:** Git e GitHub
 
-**Outros:**
+### 🎮 Outros:
 - Unity (C#) — Desenvolvimento de Jogos
+
 
 ---
 
@@ -33,16 +40,6 @@
 
 - [🌎 Portfólio](https://nathanielfarias.netlify.app/)
 - [🔗 Página de Links](https://nathanielfariaslinks.netlify.app/)
-
----
-
-## 📚 Sobre mim
-
-Sou estudante de Análise e Desenvolvimento de Sistemas pela Anhanguera UNOPAR, focado em Desenvolvimento Back-End.  
-Atualmente estudo Node.js, Banco de Dados, além de tecnologias Web como HTML, CSS, JavaScript, TypeScript, React.js, Next.js e Tailwind CSS.  
-Tenho também interesse em Desenvolvimento de Jogos, com experiência prática na criação de jogos digitais utilizando Unity.
-
-Estou buscando oportunidades para aplicar meus conhecimentos, evoluir como desenvolvedor e contribuir em projetos reais.
 
 ---
 
