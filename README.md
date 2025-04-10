@@ -6,7 +6,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela Anhanguera UNOPAR.
 Atualmente, estou focado em aprimorar meus conhecimentos em JavaScript, com o objetivo de me especializar em Desenvolvimento Back-End. Em breve, iniciarei meus estudos em Node.js, bancos de dados e APIs REST para construir aplicações completas.
 No Desenvolvimento Front-End, já estudei HTML, CSS e JavaScript, e pretendo avançar para tecnologias como TypeScript, React.js, Next.js e Tailwind CSS, a fim de complementar minha formação como desenvolvedor full stack.
 Também sou entusiasta do Desenvolvimento de Jogos, com experiência prática em projetos pessoais utilizando a Unity.
-Estou em busca de oportunidades para aplicar meus conhecimentos, evoluir como desenvolvedor e contribuir em projetos reais.
 
 Estou buscando oportunidades para aplicar meus conhecimentos, evoluir como desenvolvedor e contribuir em projetos reais.
 
