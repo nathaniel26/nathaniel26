@@ -25,8 +25,8 @@ Estou buscando oportunidades para aplicar meus conhecimentos, evoluir como desen
 - JavaScript (ES6+)
 
 ### 🚀 Planejado para estudar:
-- **Back-End:** Node.js, Banco de Dados (MySQL, MongoDB), APIs REST
-- **Front-End:** TypeScript, React.js, Next.js, Tailwind CSS
+- **Back-End:** Node.js, Banco de Dados (MySQL, MongoDB), APIs REST, TypeScript
+- **Front-End:** React.js, Next.js, Tailwind CSS
 - **Tecnologias de Suporte:** Git e GitHub
 
 ### 🎮 Outros:
